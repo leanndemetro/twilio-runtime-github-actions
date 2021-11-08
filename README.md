@@ -4,7 +4,7 @@ This is a template for a Github Actions workflow that deploys Twilio Runtime fun
 
 > NOTE: You'll need a [Twilio Account](https://twilio.com) and a [Github Account](https://github.com) to complete the following steps.
 
-## Tutorial
+## Tutorial 
 
 <a href="https://youtu.be/g5TbMMdlxLs"><img src="./assets/cover.png" alt="CI/CD for Twilio Functions with GitHub Actions" height="480" /></a>
 
